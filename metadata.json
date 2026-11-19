@@ -1,0 +1,6 @@
+{
+  "name": "Diet & Calorie Planner",
+  "description": "Calculates BMI, daily calories, and macro-nutrients based on exercise goals, and generates highly-specific dietary plans tailored to vegetarian, vegan, and non-vegetarian selections with integrated Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
